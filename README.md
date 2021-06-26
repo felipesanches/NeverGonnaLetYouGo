@@ -1,6 +1,7 @@
 The document is typeset using LaTeX. If you just want the PDF, you simply download it from this repo (I'll try to keep the hosted PDF in sync with any changes made to the other files). If you want to improve the document, then you will need to install the dependencies and build it this way:
 
 > sudo apt-get install texlive-music
+
 > pdflatex never_gonna_let_you_go.tex
 
 Have fun! And if you have improvements, please consider sharing via a pull request ;-)
