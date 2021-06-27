@@ -6,7 +6,7 @@ The document is typeset using LaTeX. If you just want the PDF, you simply downlo
 
 Have fun! And if you have improvements, please consider sharing via a pull request ;-)
 
-My code is release to the public domain, while the song copyrights are obviously not mine...
+My code is released to the public domain, while the song copyrights are obviously not mine...
 
 The lyrics came from:
 https://www.cifraclub.com.br/sergio-mendes/never-gonna-let-you-go
